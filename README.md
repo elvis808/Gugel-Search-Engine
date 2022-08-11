@@ -1,6 +1,6 @@
 # Gugel - The Search Engine
 
-This awesome project runs on mostly JavaScipt but utilizes Reacts Context API. With the Google API being inovolved, this application pulls all searches needed to provide easy and fast search answers. 
+This awesome project runs on mostly JavaScipt but utilizes Reacts Context API. With the help of Google API being inovolved, this application pulls all searches needed to provide easy and fast answers.
 
 ## Demo
 
