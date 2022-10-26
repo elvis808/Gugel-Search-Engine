@@ -2,7 +2,7 @@
 
 This awesome project runs on mostly JavaScipt but utilizes Reacts Context API. This application pulls all searches needed to provide easy and fast answers.
 
-[*DEMO IS HERE*]
+[*DEMO IS HERE*] 
 
 [LIVE DEMO](https://gugel-search-engine.netlify.app/)
 
