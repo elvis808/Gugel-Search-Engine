@@ -1,4 +1,4 @@
-# Gugel - The Search Engine
+# Gugel - The Search Engine 
 
 This awesome project runs on mostly JavaScipt but utilizes Reacts Context API. This application pulls all searches needed to provide easy and fast answers.
 
